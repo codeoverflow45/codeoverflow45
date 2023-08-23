@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shadiya</h1>
+<h1 align="center">Hi there 👋 </h1>
 <h3 align="center">Passionate problem solver and Empowering through code, one line at a time. Embracing challenges with a curious mind and a keyboard as my sword. Off-screen, I'm a nature lover, music explorer, and occasional doodler.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeoverflow45&label=Profile%20views&color=0e75b6&style=flat" alt="codeoverflow45" /> </p>
