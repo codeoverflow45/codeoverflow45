@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, HTML,CSS,JS, REACTJS and SQL**
 
-- 📫 How to reach me **https://github.com/codeoverflow45**
+- 📫 How to reach me **shadiyakhan404@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
